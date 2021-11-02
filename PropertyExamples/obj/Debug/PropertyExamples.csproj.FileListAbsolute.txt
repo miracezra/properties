@@ -1,0 +1,7 @@
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\bin\Debug\PropertyExamples.exe.config
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\bin\Debug\PropertyExamples.exe
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\bin\Debug\PropertyExamples.pdb
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\obj\Debug\PropertyExamples.csproj.AssemblyReference.cache
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\obj\Debug\PropertyExamples.csproj.CoreCompileInputs.cache
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\obj\Debug\PropertyExamples.exe
+C:\Users\Mirac Ezra\source\repos\Applications\PropertyExamples\obj\Debug\PropertyExamples.pdb
